@@ -1,14 +1,9 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Pravallika%20Medisetti&fontSize=44&fontColor=ffffff&fontAlignY=55&desc=DevOps%20%7C%20DevSecOps%20%7C%20AIOps%20Engineer&descSize=17&descAlignY=78&animation=fadeIn"/>
-</div>
 <br/>
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pravallikamedisetti-6366f1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravallikamedisetti)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-pravallika.devsecs.online-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white)](https://pravallika.devsecs.online)
-&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-@pravallika96973-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pravallika96973)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-pravallikame@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pravallikame@gmail.com)
  
 <br/>
@@ -45,29 +40,29 @@ quote: "I don't just run pipelines —
  
 ## 📊 By The Numbers
  
-<div align="center">
 | 🕐 Experience | ☁️ Cloud | 🚀 Projects | 🔐 DevSecOps | 🤖 AIOps |
 |:---:|:---:|:---:|:---:|:---:|
 | **3+ Years** | **AWS** | **4 Production-grade** | **Trivy · SonarQube · ESO** | **Bedrock · SageMaker** |
  
-</div>
 ---
  
 ## 🚀 Featured Projects
  
 ### 🔐 ComplianceIQ — AI-Powered Compliance Automation
+ 
 > 6 microservices (Go · Java · Python · Node.js · Nginx) on AWS EKS · ML risk scoring via SageMaker · AI remediation via Bedrock Claude · Zero secrets in Git using ESO + AWS Secrets Manager · OIDC keyless GitHub Actions
  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock_Claude-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Bedrock Claude](https://img.shields.io/badge/Bedrock_Claude-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![ESO](https://img.shields.io/badge/External_Secrets-6366f1?style=flat-square&logoColor=white)
  
 ---
  
 ### 🏥 MediBot — AI-Powered Patient Triage System
+ 
 > Jenkins → Trivy → SonarQube gate → Nexus → ECR → ArgoCD → EKS · AI triage via Bedrock Nova Lite · HTTPS via ACM + Route53 + cert-manager · Prometheus + Grafana monitoring
  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -80,6 +75,7 @@ quote: "I don't just run pipelines —
 ---
  
 ### 🛒 K8s Ecommerce Microservices CI/CD
+ 
 > GitOps microservices on AWS EKS · GitHub Actions → ECR → ArgoCD auto-deploys · Terraform-provisioned infra · Full observability: EFK + Grafana + Prometheus
  
 [![Repo](https://img.shields.io/badge/GitHub-k8s--ecommerce--microservices--cicd-181717?style=flat-square&logo=github)](https://github.com/pravalliika/k8s-ecommerce-microservices-cicd)
@@ -91,6 +87,7 @@ quote: "I don't just run pipelines —
 ---
  
 ### 📊 AWS Log Analytics — CloudWatch & Athena
+ 
 > Serverless log pipeline: CloudWatch Agent → S3 → Athena SQL · CloudTrail API call capture · Detect failed logins, IAM anomalies, S3 events via SQL
  
 [![Repo](https://img.shields.io/badge/GitHub-aws--log--analytics--cloudwatch--athena-181717?style=flat-square&logo=github)](https://github.com/pravalliika/aws-log-analytics-cloudwatch-athena)
@@ -105,9 +102,8 @@ quote: "I don't just run pipelines —
  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,github,linux,python,bash,grafana,prometheus,git,nginx&perline=14"/>
-</div>
-<br/>
-<div align="center">
+<br/><br/>
+ 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
@@ -159,7 +155,7 @@ quote: "I don't just run pipelines —
  
 | Goal | Status |
 |:-----|:------:|
-| 🏆 Land a DevOps / DevSecOps / SRE role at a product-based company | 🔥 Active |
+| 🏆 Land a DevOps / DevSecOps / SRE role at a product company | 🔥 Active |
 | 📜 AWS Certified DevOps Engineer – Professional | 🔄 In Progress |
 | 🤖 Build more AIOps projects with Bedrock and SageMaker | 🔄 In Progress |
 | ✍️ Publish real-world DevOps articles on Medium | 🔄 In Progress |
@@ -172,11 +168,8 @@ quote: "I don't just run pipelines —
  
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pravallikamedisetti-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravallikamedisetti)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-pravallika.devsecs.online-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pravallika.devsecs.online)
-&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-@pravallika96973-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pravallika96973)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-pravalliika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pravalliika)
  
 <br/><br/>
