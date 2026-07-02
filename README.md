@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Pravallika%20Medisetti&fontSize=44&fontColor=ffffff&fontAlignY=55&desc=DevOps%20%7C%20DevSecOps%20%7C%20AIOps%20Engineer&descSize=17&descAlignY=78&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Pravallika%20Medisetti&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=DevOps%20%7C%20DevSecOps%20%7C%20AIOps%20Engineer&descSize=18&descAlignY=68&animation=fadeIn"/>
 <br/>
 <a href="https://www.linkedin.com/in/pravallikamedisetti"><img src="https://img.shields.io/badge/LinkedIn-pravallikamedisetti-6366f1?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://pravallika.devsecs.online"><img src="https://img.shields.io/badge/Portfolio-pravallika.devsecs.online-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
@@ -53,13 +53,12 @@ quote: "I don't just run pipelines —
  
 > 6 microservices (Go · Java · Python · Node.js · Nginx) on AWS EKS · ML risk scoring via SageMaker · AI remediation via Bedrock Claude · Zero secrets in Git using ESO + AWS Secrets Manager · OIDC keyless GitHub Actions
  
-<a href="https://github.com/pravalliika"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
-<a href="https://github.com/pravalliika"><img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bedrock_Claude-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/External_Secrets-6366f1?style=flat-square&logoColor=white"/>
- 
 ---
  
 ### 🏥 MediBot — AI-Powered Patient Triage System
@@ -138,11 +137,11 @@ quote: "I don't just run pipelines —
 ## 📈 GitHub Stats
  
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pravalliika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=6366f1&title_color=6366f1"/>&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalliika&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1"/>
- 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pravalliika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalliika&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
 <br/><br/>
  
-<img src="https://streak-stats.demolab.com/?user=pravalliika&theme=tokyonight&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=pravalliika&theme=tokyonight&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=6366f1&dates=c9d1d9"/>
 <br/><br/>
  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravalliika&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=8b5cf6&point=ffffff" width="95%"/>
