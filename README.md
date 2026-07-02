@@ -137,8 +137,8 @@ quote: "I don't just run pipelines —
 ## 📈 GitHub Stats
  
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pravalliika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravalliika&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pravalliika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pravalliika&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
 <br/><br/>
  
 <img width="70%" src="https://streak-stats.demolab.com/?user=pravalliika&theme=tokyonight&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=6366f1&dates=c9d1d9"/>
